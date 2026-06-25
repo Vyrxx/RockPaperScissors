@@ -2,6 +2,7 @@
 
 - Code is easy to read even for beginners
 - Optimized
+- Game fully in Russian language
 - etc.
 
 
